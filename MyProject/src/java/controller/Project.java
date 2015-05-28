@@ -17,7 +17,7 @@ public class Project extends HttpServlet {
             out.println("<title>Servlet NewServlet</title>");  
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>welcome to the new world</h1>");
+            out.println("<h1>A Successful build in jenkins</h1>");
             out.println("</body>");
             out.println("</html>");
             
